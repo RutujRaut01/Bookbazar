@@ -1,3 +1,12 @@
+ Developed a full-stack online bookstore with secure authentication (JWT), an admin dashboard for inventory
+ management, and a responsive UI using Tailwind CSS.
+ Engineered robust user authentication and authorization utilizing JSON Web Tokens (JWT), enabling secure login and
+ registration processes, and developed an admin dashboard for efficient inventory management, including CRUD
+ functionalities. Improved search speed by 20% through query optimization.
+ Created a checkout system with cash-on-delivery, implemented dynamic search and filtering, and deployed on Vercel and
+ GitHub for accessibility.
+
+
 ## How to run this project:
 
 ### For Frontend 
